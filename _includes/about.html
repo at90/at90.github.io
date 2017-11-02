@@ -1,5 +1,5 @@
  <!-- About Section -->
-    <canvas id="canvas">
+   
     <section class="warn" id="about">
         <div class="container">
             <div class="row">
@@ -35,6 +35,7 @@
             </div>
         </div>
     </section>
+     <canvas id="canvas">
 </canvas>
 <style type="text/css">
     /*Simple reset*/
@@ -45,8 +46,7 @@ body {
     background: #ffffff;
 }
 canvas {
-    z-index: -10;
-    display: block;
+     display: block;
 }
 </style>
     <script type="text/javascript">
@@ -54,7 +54,8 @@ canvas {
     //canvas init
     var canvas = document.getElementById("canvas");
     var ctx = canvas.getContext("2d");
-    
+    ctx.globalCompositeOperation='destination-over';
+
     //canvas dimensions
     var W = window.innerWidth;
     var H = window.innerHeight;
