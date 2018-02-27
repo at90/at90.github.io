@@ -10,7 +10,8 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>From Salesforce IQ to Salesforce</h2>
+                    <h3>Your business is one of a kind</h3>
+                    <h4>From Salesforce IQ to Salesforce</h4>
                     <hr class="star-light">
                 </div>
             </div>
