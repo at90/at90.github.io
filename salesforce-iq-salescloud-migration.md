@@ -5,13 +5,13 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
 <html>
 
 {% include head.html %}
-     <section style="position: absolute;left: 0px;top: 0px;z-index:-10;height: 10em;
+     <section style="position: relative;z-index:-10;height: 10em;
     -webkit-transform: rotate(-30deg); 
     -moz-transform: rotate(-30deg); background-image: linear-gradient(-177deg, #FFFFFF 0%, #CFE9FF 100%);">
      
      </section>
      
-     <section>
+     <section style="position: absolute;">
       
       <div class="container">
             <div class="row">
