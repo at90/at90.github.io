@@ -6,7 +6,7 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
 
 {% include head.html %}
  
-     <section>
+     <section style="background-image: linear-gradient(-177deg, #FFFFFF 0%, #CFE9FF 100%);">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
