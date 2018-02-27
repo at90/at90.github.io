@@ -1,5 +1,5 @@
 ---
-layout: "salesforce-iq-salescloud-migration"
+layout: "salesforceiq-salesforce-sales-cloud-migration"
 title: Migrate to Salesforce Sales Cloud from Salesforce IQ
 ---
 <html>
