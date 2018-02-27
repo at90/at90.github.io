@@ -7,7 +7,8 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
 {% include head.html %}
  
      <section style="background-image: linear-gradient(-177deg, #FFFFFF 0%, #CFE9FF 100%);">
-        <div class="container">
+      
+      <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h3>Your business is one of a kind</h3>
@@ -23,5 +24,12 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
                 <div class="col-lg-4">
                     <p>Along with the new set of reporting that you'd like, I can also have them built on a neat Dashboard complete with Charts and Metrics. You will be able to see the most relevant info the moment you login so you can quickly identify bottlenecks in performance. </p>
                 </div>
-</div>                
+            </div>                
 
+<div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
+  <div class="card-header">Header</div>
+  <div class="card-body">
+    <h4 class="card-title">Primary card title</h4>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div>
