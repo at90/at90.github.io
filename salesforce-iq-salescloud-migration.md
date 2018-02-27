@@ -4,28 +4,44 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
 ---
 
 Salesforce IQ
-
-  <section id="portfolio">
+<!-- About Section -->
+     <section class="warn" id="about">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>Portfolio</h2>
-                    <hr class="star-primary">
+                    <h2>Hola!</h2>
+                    <hr class="star-light">
                 </div>
             </div>
             <div class="row">
-                {% for post in site.posts %}
-                    <div class="col-sm-4 portfolio-item">
-                        <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
-                            <div class="caption">
-                                <div class="caption-content">
-                                    <i class="fa fa-search-plus fa-3x"></i>
-                                </div>
-                            </div>
-                            <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
-                        </a>
-                    </div>
-                {% endfor %}
+                <div class="col-lg-4 col-lg-offset-2">
+                    <p>I'm a developer, designer and aspiring harp player.</p>
+                    <p>I help non-profits do their work a little faster using cloud based apps. </p>
+                </div>
+                <div class="col-lg-4">
+                    <p>I love learning langauges. </p> 
+                    <p>I'm presently trying my hand at Shqip🇦🇱 and Catalan🇪🇸.</p>
+                </div>
+
+                <div id="contact" class="col-lg-8 col-lg-offset-2 text-center">
+                    <h4>Reach me at  
+                    <script type="text/javascript">
+    var string1 = "allentom";
+    var string2 = "@";
+    var string3 = "me";
+    var string5 = "hola";
+    var string6 = ".";
+    var stringf = string5 + string2 + string1 + string6 + string3;
+    document.write("<a href=" + "mail" + "to:" + stringf + ">" + stringf + "</a>");
+</script></h4>
+
+                </div>
             </div>
         </div>
     </section>
+     <style type="text/css">
+         #contact
+         {
+            margin-top: 2em;
+         }
+     </style>
