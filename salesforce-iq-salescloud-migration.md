@@ -5,14 +5,6 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
 <html>
 
 {% include head.html %}
-     <div class="jumbotron">
-  <h1 class="display-3">Your Business is Unique</h1>
-  <p class="lead">Customizabilty sets salesforce apart, we spent time understanding your requirements</p>
-  <hr class="my-4">
-  <p>We build a solution to help your team accelerate decision making, accessing the right information at the right time</p>
-
-</div>
-
  
      
      <section >
