@@ -8,7 +8,6 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
  
      
      <section >
-      
       <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
