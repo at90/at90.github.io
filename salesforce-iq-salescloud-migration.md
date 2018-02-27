@@ -9,9 +9,13 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
     -webkit-transform: rotate(-30deg); 
     -moz-transform: rotate(-30deg); background-image: linear-gradient(-177deg, #FFFFFF 0%, #CFE9FF 100%);"> 
      </section>
-     <section style="position: relative;z-index:-10;height: 10em;
+     <section style="position: relative;z-index:-9;height: 10em;
     -webkit-transform: rotate(-50deg); 
     -moz-transform: rotate(-50deg); background-image: linear-gradient(-177deg, #FFFFFF 0%, #5fba7d 100%);"> 
+     </section>
+          <section style="position: relative;z-index:-8;height: 10em;
+    -webkit-transform: rotate(-50deg); 
+    -moz-transform: rotate(-50deg); background-image: linear-gradient(-177deg, #FFFFFF 0%, #e22167 100%);"> 
      </section>
      
      <section style="position: absolute;top:10;">
