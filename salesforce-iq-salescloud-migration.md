@@ -4,14 +4,11 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
 ---
 
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Migrate to Salesforce Sales Cloud from Salesforce IQ</title>
-</head>
-<body>
+<html>
+
+
+    {% include head.html %}
     
-Salesforce IQ
-    
-</body>
+     {% include js.html %}
+</html>
 </html>
