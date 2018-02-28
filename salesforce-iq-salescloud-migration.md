@@ -50,6 +50,8 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
     
 <section id="features">
       <div class="container">
+        <h2 class="text-center text-uppercase text-secondary mb-0">What you get</h2>
+        <hr class="star-dark mb-5">
       <!--
         <h2 class="text-center text-uppercase">About</h2>
         <hr class="star-light">
