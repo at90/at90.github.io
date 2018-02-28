@@ -27,7 +27,7 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
                 </div>
             </div>               
 
-
+<!--
 <div class="panel-group" id="accordion">
   <div class="panel panel-default">
     <div class="panel-heading">
@@ -72,3 +72,4 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
     </div>
   </div>
 </div>
+!-->
