@@ -77,7 +77,7 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
         <div class="row" style="margin-bottom: 3em;">
           <h3 class="text-left text-uppercase">Respond Quickly to Prospects</h3>            
           <div class="col-lg-4 ml-auto">
-            <p class="lead">In addition to handholding you through the main feature. We help you learn advanced drag and drop features to create reports and powerful automations in a few clicks.</p>
+            <p class="lead">We help you learn advanced drag and drop features to create reports and powerful automations in a few clicks.</p>
           </div>
           <div class="col-lg-4 mr-auto">
             <p class="lead">IMAGE</p>
