@@ -93,7 +93,7 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
     
     
     <!-- Contact Section -->
-    <section id="contact" class="bg-primary">
+    <section id="contact">
       <div class="container">
         <h2 class="text-center text-uppercase text-secondary mb-0">Get In Touch</h2>
         <hr class="star-dark mb-5">
