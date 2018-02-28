@@ -35,27 +35,23 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
 </head>
 
   <body id="page-top">
-
- 
  
     <!-- Header -->
     <header class="masthead bg-primary text-white text-center">
       <div class="container">
-        <img class="img-fluid mb-5 d-block mx-auto" src="img/profile.png" alt="">
-        <h1 class="text-uppercase mb-0">Start Bootstrap</h1>
+        <img class="img-fluid mb-5 d-block mx-auto" src="img/salesforceiq-migrate-consultant.png" alt="Migration SalesforceIQ to Salesforce Consultant">
+        <h1 class="text-uppercase mb-0">Get Up & Running with Salesforce for <del>$999</del> $799</h1>
         <hr class="star-light">
-        <h2 class="font-weight-light mb-0">Web Developer - Graphic Artist - User Experience Designer</h2>
+        <h2 class="font-weight-light mb-0">We help Organizations migrate from SalesforceIQ</h2>
       </div>
     </header>
     
 <section id="features">
       <div class="container">
+      <!--
         <h2 class="text-center text-uppercase text-secondary mb-0">What you get</h2>
         <hr class="star-dark mb-5">
-      <!--
-        <h2 class="text-center text-uppercase">About</h2>
-        <hr class="star-light">
-      !-->
+       !-->
         <div class="row" style="margin-bottom: 3em;">
           <h3 class="text-center text-uppercase">Respond Quickly to Prospects</h3>
           <br>
