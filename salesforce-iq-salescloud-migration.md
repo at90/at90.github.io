@@ -82,9 +82,9 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
             <!-- To configure the contact form email address, go to mail/contact_me.php and update the email address in the PHP file on line 19. -->
             <!-- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. -->
             <form action="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="POST">
-                                <input type=hidden name="oid" value="00D28000001EPHY">
-                                <input type=hidden name="retURL" value="/">
-                                <input type=hidden name="lead_source" value="SalesforceIQ Migration">
+                                <input type="hidden" name="oid" value="00D28000001EPHY">
+                                <input type="hidden" name="retURL" value="/">
+                          <input type="hidden" name="lead_source" value="SalesforceIQ Migration">
                                 
               <div class="control-group">
                 <div class="form-group floating-label-form-group controls mb-0 pb-2">
