@@ -48,24 +48,58 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
       </div>
     </header>
     
-    <section >
+    <section class="bg-primary " id="features">
       <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h3>Your business is one of a kind</h3>
-                    <h4>From Salesforce IQ to Salesforce</h4>
-                    <hr class="star-light">
-                </div>
-            </div>
-            
-            <div class="row">
-                <div class="col-lg-4 col-lg-offset-2">
-                    <p>Salesforce Enterprise comes with a ton of features, workflows and opportunities for integrations. I can have your instance set up to match your organization's requirements in a days time. I'd been working with a Salesforce ISV building advanced reporting for banking institutions. A good rule of thumb is to design for ease of reporting, in addition to the custom objects and triggers that you'd need.</p>
-                </div>
-                <div class="col-lg-4">
-                    <p>Along with the new set of reporting that you'd like, I can also have them built on a neat Dashboard complete with Charts and Metrics. You will be able to see the most relevant info the moment you login so you can quickly identify bottlenecks in performance. </p>
-                </div>
-            </div>               
+      <!--
+        <h2 class="text-center text-uppercase">About</h2>
+        <hr class="star-light">
+      !-->
+        <div class="row">
+          <h3 class="text-center text-uppercase">Respond Quickly to Prospects</h3>
+          <div class="col-lg-4 ml-auto">
+            <p class="lead">IMAGE</p>
+          </div>
+          <div class="col-lg-4 mr-auto">
+            <p class="lead">We setup workflow to capture lead info form your website and save it in a lead record and setting up tasks for your Sales team to reach out.</p>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-4 ml-auto">
+            <p class="lead">We setup dashboards and reports so the team has access to the most relevant info to make really quick decisions.</p>
+          </div>
+          <div class="col-lg-4 mr-auto">
+            <p class="lead">IMAGE</p>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-4 ml-auto">
+            <p class="lead">IMAGE</p>
+          </div>
+          <div class="col-lg-4 mr-auto">
+            <p class="lead">We setup dashboards and reports so the team has access to the most relevant info to make really quick decisions.</p>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-4 ml-auto">
+            <p class="lead">In addition to handhlding you through the main feature. We help try out the advanced drag and drop features to create powerful automations in a few clicks.</p>
+          </div>
+          <div class="col-lg-4 mr-auto">
+            <p class="lead">IMAGE</p>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+ 
+
+    
+    
+    
+    
     <!-- Contact Section -->
     <section id="contact">
       <div class="container">
