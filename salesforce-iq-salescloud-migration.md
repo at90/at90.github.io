@@ -48,13 +48,13 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
       </div>
     </header>
     
-    <section class="bg-primary " id="features">
+<section id="features">
       <div class="container">
       <!--
         <h2 class="text-center text-uppercase">About</h2>
         <hr class="star-light">
       !-->
-        <div class="row">
+        <div class="row" style="margin-bottom: 3em;">
           <h3 class="text-center text-uppercase">Respond Quickly to Prospects</h3>
           <div class="col-lg-4 ml-auto">
             <p class="lead">IMAGE</p>
@@ -64,16 +64,8 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
           </div>
         </div>
 
-        <div class="row">
-          <div class="col-lg-4 ml-auto">
-            <p class="lead">We setup dashboards and reports so the team has access to the most relevant info to make really quick decisions.</p>
-          </div>
-          <div class="col-lg-4 mr-auto">
-            <p class="lead">IMAGE</p>
-          </div>
-        </div>
-
-        <div class="row">
+        <div class="row" style="margin-bottom: 3em;">
+          <h3 class="text-center text-uppercase">Stay on Top our Your Metrics</h3>           
           <div class="col-lg-4 ml-auto">
             <p class="lead">IMAGE</p>
           </div>
@@ -82,9 +74,10 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
           </div>
         </div>
 
-        <div class="row">
+        <div class="row" style="margin-bottom: 3em;">
+          <h3 class="text-center text-uppercase">Respond Quickly to Prospects</h3>            
           <div class="col-lg-4 ml-auto">
-            <p class="lead">In addition to handhlding you through the main feature. We help try out the advanced drag and drop features to create powerful automations in a few clicks.</p>
+            <p class="lead">In addition to handholding you through the main feature. We help you learn advanced drag and drop features to create reports and powerful automations in a few clicks.</p>
           </div>
           <div class="col-lg-4 mr-auto">
             <p class="lead">IMAGE</p>
@@ -93,7 +86,6 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
 
       </div>
     </section>
-
  
 
     
@@ -101,7 +93,7 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
     
     
     <!-- Contact Section -->
-    <section id="contact">
+    <section id="contact" class="bg-primary">
       <div class="container">
         <h2 class="text-center text-uppercase text-secondary mb-0">Get In Touch</h2>
         <hr class="star-dark mb-5">
@@ -155,7 +147,7 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
               <br>
               <div id="success"></div>
               <div class="form-group">
-                <button type="submit" class="btn btn-primary btn-xl" id="sendMessageButton">Enter</button>
+                <button type="submit" class="btn btn-primary btn-xl" id="sendMessageButton">Book Consultation</button>
               </div>
             </form>
           </div>
