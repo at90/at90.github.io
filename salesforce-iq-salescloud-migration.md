@@ -32,6 +32,7 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
+   
 </head>
 
   <body id="page-top">
@@ -78,7 +79,7 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
           <h3 class="text-center text-uppercase">Handholding through features</h3> 
                     <br>
           <div class="col-lg-6 ml-auto">
-             <img src="/img/Training-SalesforceIQ-Migration-Sales-Cloud-Consultant.png" alt="Training Migration to Sales Cloud from SalesforceIQ Consultant" />
+             <img src="/img/Training-SalesforceIQ-Migration-Sales-Cloud-Consultant.png" alt="Training Migration to Sales Cloud from SalesforceIQ Consultant" style="max-width:100%;" />
            
           </div>
           <div class="col-lg-3 mr-auto">
