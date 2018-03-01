@@ -42,7 +42,7 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
         <img class="img-fluid mb-5 d-block mx-auto" src="/img/salesforceiq-migrate-consultant.png" alt="Migration SalesforceIQ to Salesforce Consultant">
         <h1 class="text-uppercase mb-0">Get Up & Running with Salesforce for <del>$999</del> $799</h1>
         <hr class="star-light">
-        <h3 class="font-weight-light mb-0">We engage the remarkable customizabilty of Salesforce to craft it according to your unique business needs.</h3>
+        <p>We engage the remarkable customizabilty of Salesforce to craft it according to your unique business needs.</p>
       </div>
     </header>
     
