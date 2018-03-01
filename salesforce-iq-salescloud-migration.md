@@ -200,7 +200,7 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
       </p>
     </div>
     <div id="collapse3" class="panel-collapse collapse">
-      <div class="panel-body">We have the expertise to build integration for you to both connect forms to your Salesforce instance.</div>
+      <div class="panel-body">We have the expertise to build integration for you to connect forms to any standard or custom object in your Salesforce instance.</div>
     </div>
   </div>
   <div class="panel panel-default">
