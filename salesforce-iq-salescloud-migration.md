@@ -196,11 +196,11 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
   </div>
   <div class="panel panel-default">
     <div class="panel-heading">
-      <p class="panel-title" data-toggle="collapse" data-parent="#accordion" href="#collapse3">
+      <p class="panel-title" data-toggle="collapse" data-parent="#accordion" href="#collapse4">
         What happens if we need additional customizations or need additional guidance with a feature? 
       </p>
     </div>
-    <div id="collapse3" class="panel-collapse collapse">
+    <div id="collapse4" class="panel-collapse collapse">
       <div class="panel-body">We are accessible even after implmentation for make sure your team is upto speed.</div>
     </div>
   </div>
