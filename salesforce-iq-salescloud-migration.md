@@ -37,7 +37,7 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
   <body id="page-top">
  
     <!-- Header -->
-    <header class="masthead text-center">
+    <header class="masthead text-center" style="background-color: #2c3e50;">
       <div class="container">
         <img class="img-fluid mb-5 d-block mx-auto" src="/img/salesforceiq-migrate-consultant.png" alt="Migration SalesforceIQ to Salesforce Consultant">
         <h1 class="text-uppercase mb-0">Get Up & Running with Salesforce for <del>$999</del> $799</h1>
