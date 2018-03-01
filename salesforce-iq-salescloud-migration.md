@@ -92,8 +92,8 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
     <section>
               <div class="container">
          <blockquote class="blockquote text-center">
-  <h2 class="mb-0">"Allen was great with trying to understand our purpose. He was quick and efficient."<br><br>
-  - Pearl, Conflict Center</h2>
+  <h3 class="mb-0">"Allen was great with trying to understand our purpose. He was quick and efficient."<br><br>
+  - Pearl, Conflict Center</h3>
         </blockquote>
      </div>
     </section>
