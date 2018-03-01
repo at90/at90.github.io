@@ -156,13 +156,14 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
       </div>
     </section>
 
-
+    <section id="contact">
+      <div class="container">
 <div class="panel-group" id="accordion">
         <h2 class="text-center text-uppercase text-secondary mb-0">Frequently Asked Questions </h2>
   <div class="panel panel-default">
     <div class="panel-heading">
-      <h4 class="panel-title">
-        <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
+      <h4 class="panel-title" data-toggle="collapse" data-parent="#accordion" href="#collapse1">
+        <a >
         Will the team be able to train remotely or onsite?</a>
       </h4>
     </div>
@@ -206,4 +207,7 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
   </div>
 
 </div>
+
+</div>
+</section>
  
