@@ -67,10 +67,10 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
           <h3 class="text-center text-uppercase">Stay on Top our Your Metrics</h3>
           <br>
           <div class="col-lg-4 ml-auto">
-            <p class="lead">IMAGE</p>
+            <p class="lead">We setup dashboards and reports so the team has access to the most relevant info to make really quick decisions.</p>
           </div>
           <div class="col-lg-4 mr-auto">
-            <p class="lead">We setup dashboards and reports so the team has access to the most relevant info to make really quick decisions.</p>
+            <p class="lead">IMAGE</p>
           </div>
         </div>
 
@@ -78,10 +78,10 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
           <h3 class="text-center text-uppercase">Handholding through features</h3> 
                     <br>
           <div class="col-lg-4 ml-auto">
-            <p class="lead">We help you learn advanced drag and drop features to create reports and powerful automations in a few clicks.</p>
+            <p class="lead">IMAGE</p>
           </div>
           <div class="col-lg-4 mr-auto">
-            <p class="lead">IMAGE</p>
+            <p class="lead">We help you learn advanced drag and drop features to create reports and powerful automations in a few clicks.</p>
           </div>
         </div>
 
