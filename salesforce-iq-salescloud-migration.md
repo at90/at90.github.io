@@ -78,7 +78,8 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
           <h3 class="text-center text-uppercase">Handholding through features</h3> 
                     <br>
           <div class="col-lg-4 ml-auto">
-            <p class="lead">IMAGE</p>
+             <img src="/img/Training-SalesforceIQ-Migration-Sales-Cloud-Consultant.png" alt="Training Migration to Sales Cloud from SalesforceIQ Consultant" />
+           
           </div>
           <div class="col-lg-4 mr-auto">
             <p class="lead">We help you learn advanced drag and drop features to create reports and powerful automations in a few clicks.</p>
