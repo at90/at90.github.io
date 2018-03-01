@@ -55,10 +55,10 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
         <div class="row" style="margin-bottom: 3em;">
           <h3 class="text-center text-uppercase">Respond Quickly to Prospects</h3>
           <br>
-          <div class="col-lg-4 ml-auto">
+          <div class="col-lg-5 ml-auto">
             <img src="/img/Website-Form-to-Lead-SalesforceIQ.png" alt="Website form to Salesforce Lead" />
           </div>
-          <div class="col-lg-4 mr-auto">
+          <div class="col-lg-3 mr-auto">
             <p class="lead">We setup workflow to capture lead info form your website and save it in a lead record and setting up tasks for your Sales team to reach out.</p>
           </div>
         </div>
@@ -77,11 +77,11 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
         <div class="row" style="margin-bottom: 3em;">
           <h3 class="text-center text-uppercase">Handholding through features</h3> 
                     <br>
-          <div class="col-lg-4 ml-auto">
+          <div class="col-lg-6 ml-auto">
              <img src="/img/Training-SalesforceIQ-Migration-Sales-Cloud-Consultant.png" alt="Training Migration to Sales Cloud from SalesforceIQ Consultant" />
            
           </div>
-          <div class="col-lg-4 mr-auto">
+          <div class="col-lg-3 mr-auto">
             <p class="lead">We help you learn advanced drag and drop features to create reports and powerful automations in a few clicks.</p>
           </div>
         </div>
