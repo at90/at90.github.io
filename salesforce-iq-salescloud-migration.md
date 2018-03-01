@@ -66,11 +66,11 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
         <div class="row" style="margin-bottom: 3em;">
           <h3 class="text-center text-uppercase">Stay on Top our Your Metrics</h3>
           <br>
-          <div class="col-lg-4 ml-auto">
-            <p class="lead">We setup dashboards and reports so the team has access to the most relevant info to make really quick decisions.</p>
+          <div class="col-lg-3 ml-auto">
+            <p class="lead">We setup dashboards and reports so the team has access to the most relevant info to make quick decisions.</p>
           </div>
-          <div class="col-lg-4 mr-auto">
-            <p class="lead">IMAGE</p>
+          <div class="col-lg-6 mr-auto">
+                        <img src="/img/Dashboards-Migrate-Sales-Cloud-SalesforceIQ.png" alt="Dashboards Migrate to Sales Cloud from SalesforceIQ" />
           </div>
         </div>
 
