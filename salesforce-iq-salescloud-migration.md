@@ -158,14 +158,15 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
 
     <section id="contact">
       <div class="container">
-<div class="panel-group" id="accordion">
-        <h2 class="text-center text-uppercase text-secondary mb-0">Frequently Asked Questions </h2>
+      <h2 style="margin-bottom: 2em;" class="text-center text-uppercase text-secondary mb-0">Frequently Asked Questions </h2>
+
+<div class="panel-group" id="accordion">    
   <div class="panel panel-default">
     <div class="panel-heading">
-      <h4 class="panel-title" data-toggle="collapse" data-parent="#accordion" href="#collapse1">
+      <p class="panel-title" data-toggle="collapse" data-parent="#accordion" href="#collapse1">
         <a >
         Will the team be able to train remotely or onsite?</a>
-      </h4>
+      </p>
     </div>
     <div id="collapse1" class="panel-collapse collapse in">
       <div class="panel-body">Remote.</div>
@@ -173,10 +174,10 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
   </div>
   <div class="panel panel-default">
     <div class="panel-heading">
-      <h4 class="panel-title">
+      <p class="panel-title">
         <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">
         Will we have access to training videos and demos?</a>
-      </h4>
+      </p>
     </div>
     <div id="collapse2" class="panel-collapse collapse">
       <div class="panel-body">Yes, all the demos and training videos will be recorded for you to access anytime.
@@ -185,10 +186,10 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
   </div>
   <div class="panel panel-default">
     <div class="panel-heading">
-      <h4 class="panel-title">
+      <p class="panel-title">
         <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">
         Do I have to hire a developer to connect Salesforce to my website?</a>
-      </h4>
+      </p>
     </div>
     <div id="collapse3" class="panel-collapse collapse">
       <div class="panel-body">We have the expertise to build integration for you to both connect forms to your Salesforce instance.</div>
@@ -196,10 +197,10 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
   </div>
   <div class="panel panel-default">
     <div class="panel-heading">
-      <h4 class="panel-title">
+      <p class="panel-title">
         <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">
         What happens if we need additional customizations or need additional guidance with a feature?</a>
-      </h4>
+      </p>
     </div>
     <div id="collapse3" class="panel-collapse collapse">
       <div class="panel-body">We are accessible even after implmentation for make sure your team is upto speed.</div>
