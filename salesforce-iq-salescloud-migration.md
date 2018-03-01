@@ -89,7 +89,12 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
     </section>
  
 
-    
+    <section>
+        <blockquote class="blockquote">
+  <p class="mb-0">"Allen was great with trying to understand our purpose. He was quick and efficient."<br>
+  Pearl, Conflict Center</p>
+        </blockquote>
+    </section>
     
     
     
