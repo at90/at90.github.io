@@ -71,7 +71,7 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
             <p class="lead">Track performance with customized reports so your team can access the most relevant info to make quick decisions.</p>
           </div>
           <div class="col-lg-6 mr-auto">
-                        <img src="/img/Dashboards-Migrate-Sales-Cloud-SalesforceIQ.png" alt="Dashboards Migrate to Sales Cloud from SalesforceIQ" />
+                        <img src="/img/Dashboards-Migrate-Sales-Cloud-SalesforceIQ.png" alt="Dashboards Migrate to Sales Cloud from SalesforceIQ" style="max-width:100%;" />
           </div>
         </div>
 
