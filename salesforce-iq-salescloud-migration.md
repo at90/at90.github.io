@@ -164,8 +164,8 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
   <div class="panel panel-default">
     <div class="panel-heading">
       <p class="panel-title" data-toggle="collapse" data-parent="#accordion" href="#collapse1">
-        <a >
-        Will the team be able to train remotely or onsite?</a>
+        
+        Will the team be able to train remotely or onsite? 
       </p>
     </div>
     <div id="collapse1" class="panel-collapse collapse in">
@@ -174,9 +174,8 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
   </div>
   <div class="panel panel-default">
     <div class="panel-heading">
-      <p class="panel-title">
-        <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">
-        Will we have access to training videos and demos?</a>
+      <p class="panel-title" data-toggle="collapse" data-parent="#accordion" href="#collapse2">
+        Will we have access to training videos and demos? 
       </p>
     </div>
     <div id="collapse2" class="panel-collapse collapse">
@@ -186,9 +185,8 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
   </div>
   <div class="panel panel-default">
     <div class="panel-heading">
-      <p class="panel-title">
-        <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">
-        Do I have to hire a developer to connect Salesforce to my website?</a>
+      <p class="panel-title" data-toggle="collapse" data-parent="#accordion" href="#collapse3">
+        Do I have to hire a developer to connect Salesforce to my website? 
       </p>
     </div>
     <div id="collapse3" class="panel-collapse collapse">
@@ -197,9 +195,8 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
   </div>
   <div class="panel panel-default">
     <div class="panel-heading">
-      <p class="panel-title">
-        <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">
-        What happens if we need additional customizations or need additional guidance with a feature?</a>
+      <p class="panel-title" data-toggle="collapse" data-parent="#accordion" href="#collapse3">
+        What happens if we need additional customizations or need additional guidance with a feature? 
       </p>
     </div>
     <div id="collapse3" class="panel-collapse collapse">
