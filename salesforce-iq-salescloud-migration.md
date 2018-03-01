@@ -56,7 +56,7 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
           <h3 class="text-center text-uppercase">Respond Quickly to Prospects</h3>
           <br>
           <div class="col-lg-4 ml-auto">
-            <p class="lead">IMAGE</p>
+            <img src="/img/Website-Form-to-Lead-SalesforceIQ.png" alt="Website form to Salesforce Lead" />
           </div>
           <div class="col-lg-4 mr-auto">
             <p class="lead">We setup workflow to capture lead info form your website and save it in a lead record and setting up tasks for your Sales team to reach out.</p>
