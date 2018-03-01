@@ -158,7 +158,8 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
 
     <section id="contact">
       <div class="container">
-      <h2 style="margin-bottom: 2em;" class="text-center text-uppercase text-secondary mb-0">Frequently Asked Questions </h2>
+      <h2 class="text-center text-uppercase text-secondary mb-0">Frequently Asked Questions </h2>
+              <hr style="margin-bottom: 2em;" class="star-dark mb-5">
 
 <div class="panel-group" id="accordion">    
   <div class="panel panel-default">
