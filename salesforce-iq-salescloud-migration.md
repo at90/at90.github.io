@@ -107,6 +107,7 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
       <div class="container">
         <h2 class="text-center text-uppercase text-secondary mb-0">Get In Touch</h2>
         <hr class="star-dark mb-5">
+        "Where would I save all those Tasks from SalesforceIQ in Salesforce?". We are glad to answer similar pressing queries from our experience succesfully implementing Salesforce for SalesforceIQ clients just like you. 
         <div class="row">
           <div class="col-lg-8 mx-auto">
             <!-- To configure the contact form email address, go to mail/contact_me.php and update the email address in the PHP file on line 19. -->
