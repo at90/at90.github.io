@@ -5,6 +5,15 @@ title: Migrate to Salesforce Sales Cloud from Salesforce IQ
 
 <html>
 <head>
+     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-114988512-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-114988512-1');
+    </script>
+
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <title>Migrate to Salesforce Sales Cloud from Salesforce IQ - Consultant</title>
